@@ -20,6 +20,11 @@ body {
 	color: #181818;
 }
 
+a {
+	text-decoration: none;
+	color: #181818;
+}
+
 .red {
 	color: red;
 	font-family: 'NanumSquareEB';		
